@@ -5,9 +5,9 @@
 ## 42 Progress:
 
 #### Phase 1
-  - Libft:
-  - Prinft:
-  - Get_Next_Line:
+  <img src="./src/libftm.png" height="90" width="90">
+  <img src="./src/ft_printfe.png" height="90" width="90">
+  <img src="./src/get_next_linem.png" height="90" width="90">
   - Born2beRoot:
 
 #### Phase 2
