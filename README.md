@@ -1,5 +1,17 @@
 ### Hi there 👋
+---
+- 🌱 I’m currently studying Software Engineering in <a href="https://www.42network.org" >42Network
 
+## 42 Progress:
+
+#### Phase 1
+  - Libft:
+  - Prinft:
+  - Get_Next_Line:
+  - Born2beRoot:
+
+#### Phase 2
+  - So_long:
 <!--
 **DavidFlorido32/DavidFlorido32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
