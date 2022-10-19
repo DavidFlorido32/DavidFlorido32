@@ -16,7 +16,8 @@
   <a href="#"> <img src="./src/ft_printfe.png" height="90" width="90"> </a>
   <a href="#"> <img src="./src/get_next_linem.png" height="90" width="90"> </a>
   <a href="#"> <img src="./src/born2beroote.png" height="90" width="90"> </a>
-  *Creating an own C library recoding basic functions and knowing Virtual Machines*
+  
+  *Creating an own C library recoding basic and elemental functions and knowing Virtual Machines*
 
   
 #### Phase 2
