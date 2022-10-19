@@ -16,11 +16,13 @@
   <a href="#"> <img src="./src/ft_printfe.png" height="90" width="90"> </a>
   <a href="#"> <img src="./src/get_next_linem.png" height="90" width="90"> </a>
   <a href="#"> <img src="./src/born2beroote.png" height="90" width="90"> </a>
+  *Creating an own C library recoding basic functions and knowing Virtual Machines*
 
   
 #### Phase 2
   <a href="#"> <img src="./src/so_longe.png" height="90" width="90"> </a>
-
+  *This project is a very small 2D game:*
+<img src="https://github.com/DavidFlorido32/ImagesRandom/blob/master/videoSolong.mov" width="400">
 
 
 #### Technolodies and tools
