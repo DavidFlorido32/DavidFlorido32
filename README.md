@@ -26,7 +26,7 @@
 <img src="https://github.com/DavidFlorido32/ImagesRandom/blob/master/videoSolong.mov" width="400">
 
 
-#### Technolodies and tools
+#### Technologies and tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
