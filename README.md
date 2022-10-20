@@ -12,13 +12,13 @@
 ## <img src="./src/42.png" height="90" width="75"> Progress:
 
 #### Phase 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phase 2
-  <a href="#"> <img src="./src/libftm.png" height="90" width="90"> </a>
+  <a href="https://github.com/DavidFlorido32/42/tree/master/libft"> <img src="./src/libftm.png" height="90" width="90"> </a>
   <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="#"> <img src="./src/ft_printfe.png" height="90" width="90"> </a>
+  <a href="https://github.com/DavidFlorido32/42/tree/master/Printf"> <img src="./src/ft_printfe.png" height="90" width="90"> </a>
   <a href="https://github.com/DavidFlorido32/42/tree/master/Get_next_line"> <img src="./src/get_next_linem.png" height="90" width="90"> </a>
   <a href="#"> <img src="./src/born2beroote.png" height="90" width="90"> </a>
   
-  *Recoding a C library with basic functions.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
+  *Recoding a C library with basic functions.*
 
   
 #### Phase 3
