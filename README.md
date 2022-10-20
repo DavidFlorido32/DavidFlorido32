@@ -15,14 +15,14 @@
   <a href="#"> <img src="./src/libftm.png" height="90" width="90"> </a>
   <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <a href="#"> <img src="./src/ft_printfe.png" height="90" width="90"> </a>
-  <a href="#"> <img src="./src/get_next_linem.png" height="90" width="90"> </a>
+  <a href="https://github.com/DavidFlorido32/42/tree/master/Get_next_line"> <img src="./src/get_next_linem.png" height="90" width="90"> </a>
   <a href="#"> <img src="./src/born2beroote.png" height="90" width="90"> </a>
   
   *Recoding a C library with basic functions.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
 
   
 #### Phase 3
-  <a href="#"> <img src="./src/so_longe.png" height="90" width="90"> </a>
+  <a href="https://github.com/DavidFlorido32/42/tree/master/So_long"> <img src="./src/so_longe.png" height="90" width="90"> </a>
   *This project is a very small 2D game&nbsp;&nbsp;&nbsp;&nbsp;*
 <img src="./src/videoSolong.gif" width="400">
 
@@ -31,8 +31,10 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Expo-informational?style=flat&logo=expo&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Tool-Unity-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)
 
 <!-- Resources -->
 <!-- Gifs: https://giphy.com/
