@@ -11,6 +11,8 @@
 
 ## <img src="./src/42.png" height="90" width="75"> Progress:
 
+## Commom Core
+
 #### Phase 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phase 2
   <a href="https://github.com/DavidFlorido32/42/tree/master/libft"> <img src="./src/libftm.png" height="90" width="90"> </a>
   <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -23,11 +25,24 @@
   
 #### Phase 3
   <a href="https://github.com/DavidFlorido32/42/tree/master/So_long"> <img src="./src/so_longe.png" height="90" width="90"> </a>
-  *This project is a very small 2D game&nbsp;&nbsp;&nbsp;&nbsp;*
-<img src="./src/videoSolong.gif" width="400">
+  <a href="#"> <img src="./src/push_swape.png" height="90" width="90"> </a>
+  *So_long project is a very small 2D game&nbsp;&nbsp;&nbsp;&nbsp;*
+ <img src="./src/videoSolong.gif" width="400">
+
+
+
+
+
+
+## DiscoveryWeb
+  <a href="https://github.com/DavidFlorido32/42/tree/master/discovery_web"> <img src="./src/piscineDiscovery.png" height="20" width="170"> </a>
+  Projects carried out during the Discovery Piscine - Web Development
+
 
 
 #### Technologies and tools
+![](https://img.shields.io/badge/Code-Html5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Css3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
