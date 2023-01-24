@@ -26,6 +26,7 @@
 #### Phase 3
   <a href="https://github.com/DavidFlorido32/42/tree/master/So_long"> <img src="./src/so_longe.png" height="90" width="90"> </a>
   <a href="#"> <img src="./src/push_swape.png" height="90" width="90"> </a>
+  <a href="#"> <img src="./src/minitalkm.png" height="90" width="90"> </a>
   *So_long project is a very small 2D game&nbsp;&nbsp;&nbsp;&nbsp;*
  <img src="./src/videoSolong.gif" width="400">
 
